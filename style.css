@@ -1,0 +1,34 @@
+/* 
+border color : #bdc3c7
+date color: #3498db
+h2 color : #2c3e50
+
+font-family: 'Source Sans Pro', sans-serif;
+
+
+ */
+
+.Box1{
+	border-left: 10px solid #bdc3c7;
+}
+
+
+
+body{
+	padding: 25px;
+	margin:50px auto;
+	border: 15px solid #bdc3c7;
+	height:100%;
+	width:75% ;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+h3{
+	letter-spacing: 0.15em ;
+	color:#3498db;
+	
+}
+
+
+
